@@ -36,7 +36,7 @@
                     <h5><label class="margin-left-48 text-darkbrown" for="Body"><b>Body of your Blog:</b></label></h5>
                 </div>
                 <div class="col-60">
-                    <textarea class="margin-left text-darkbrown" id="Blog Content" classname="Body" placeholder="Write here.."> </textarea>
+                    <textarea class="margin-left text-darkbrown" id="Blog Content" classname="Body" placeholder="Write here.." required> </textarea>
                 </div>
             </div>
             <div class="row">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-60">
                     <form  class="margin-left-52 text-darkbrown" action="uploads.php" method="post" enctype="multipart/form-data">
-                        <input class="round margin-top-17" type="file" name="fileToUpload" id="fileToUpload">
+                        <input class="round margin-top-17" type="file" name="fileToUpload" id="fileToUpload" required>
                         <input class="dark-brown round margin-top" type="submit" value="Upload" name="submit">
                     </form>
                 </div>
@@ -58,7 +58,7 @@
                         <label for="instagram"><b>Add your Instagram Handle:</b></label>
                     </div>
                     <div class="col-60">
-                        <input type="url" id="Instagram" name="Instagram">
+                        <input type="url" id="Instagram" name="Instagram" required>
                     </div>
                 </div>
                 <div>
@@ -74,7 +74,7 @@
                         <label for="Gmail"><b>Add your Gmail:</b></label>
                     </div>
                     <div class="col-60">
-                        <input type="url" id="Gmail" name="Gmail"> 
+                        <input type="url" id="Gmail" name="Gmail" required> 
                     </div>
                     <input class="right dark-brown round large margin-right margin-top margin-bottom-16" type="submit" value="SUBMIT" >
                 </div>        
