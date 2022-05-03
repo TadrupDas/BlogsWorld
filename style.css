@@ -44,7 +44,8 @@ hr{ border: 0 solid #c4a07c;}
 }
 @media screen and (max-width: 600px){
    .card-width-2{
-    width:400px;} 
+    margin-left:2px;
+    width:300px;} 
 }
 .col-40 {
     float: left;
