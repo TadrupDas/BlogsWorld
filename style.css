@@ -106,7 +106,8 @@ input[type=url], select, textarea{
 .tiny{font-size:10px!important}.small{font-size:12px!important}.medium{font-size:15px!important}.large{font-size:19px!important}
 
 @media screen and (max-width: 600px){
-    .xxlarge{font-size:14px!important}
+    .xxlarge{font-size:12px!important}
+    .jumbo{font-size:20px!important}
 }
 
 /*opacity*/
