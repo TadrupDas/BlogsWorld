@@ -31,6 +31,14 @@ hr{ border: 0 solid #c4a07c;}
 #more {display: none;} 
 #more1 {display: none;} 
 
+.card-width{
+    width:400px;
+}
+@media screen and (max-width: 600px){
+   .card-width{
+    width:200px;} 
+}
+
 .col-40 {
     float: left;
     width: 40%;
