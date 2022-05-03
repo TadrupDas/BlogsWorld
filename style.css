@@ -43,7 +43,7 @@ hr{ border: 0 solid #c4a07c;}
     width:700px;
 }
 @media screen and (max-width: 600px){
-   .card-width{
+   .card-width-2{
     width:450px;} 
 }
 .col-40 {
