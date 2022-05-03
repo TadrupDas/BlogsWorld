@@ -47,7 +47,7 @@ hr{ border: 0 solid #c4a07c;}
     clear: both;
   }
 @media screen and (max-width: 600px) {
-    .col-25, .col-75, input[type=submit] {
+    .col-40, .col-60, input[type=submit] {
       width: 100%;
       margin-top:0;
     }
@@ -104,6 +104,10 @@ input[type=url], select, textarea{
 /*Fontsize*/
 .xlarge{font-size:24px!important}.xxlarge{font-size:36px!important}.xxxlarge{font-size:48px!important}.jumbo{font-size:64px!important}
 .tiny{font-size:10px!important}.small{font-size:12px!important}.medium{font-size:15px!important}.large{font-size:19px!important}
+
+@media screen and (max-width: 600px){
+    .xxlarge{font-size:14px!important}
+}
 
 /*opacity*/
 .opacity,.hover-opacity:hover{opacity:0.70}.opacity-off,.hover-opacity-off:hover{opacity:1}
