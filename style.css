@@ -16,9 +16,17 @@ hr{ border: 0 solid #c4a07c;}
     background-size: cover;
     }
 #bg1{background-image: url("background 1.jpg");
-    min-height: 700px;}
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+ }
 #bg2{background-image: url("bg_2.jpeg");
-    min-height: 700px;}
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    }
 
 #more {display: none;} 
 #more1 {display: none;} 
