@@ -43,7 +43,7 @@ hr{ border: 0 solid #c4a07c;}
     height:250px;
 }
 @media screen and (max-width: 600px){
-   .card-width{
+   .card-height{
     height:150px;} 
 }
 
