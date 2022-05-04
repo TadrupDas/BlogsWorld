@@ -36,7 +36,7 @@ hr{ border: 0 solid #c4a07c;}
 }
 @media screen and (max-width: 600px){
    .card-width{
-    width:160px;
+    width:300px;
     } 
 }
 .card-height{
@@ -44,7 +44,7 @@ hr{ border: 0 solid #c4a07c;}
 }
 @media screen and (max-width: 600px){
    .card-height{
-    height:150px;} 
+    height:200px;} 
 }
 
 .card-width-2{
