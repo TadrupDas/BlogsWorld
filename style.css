@@ -39,12 +39,8 @@ hr{ border: 0 solid #c4a07c;}
 .card-width{
     width:250px;}
 }
+
 @media screen and (max-width: 700px){
-   .card-width{
-    width:150px;
-    } 
-}
-@media screen and (max-width: 600px){
     .card-width{
      width:300px;
      } 
