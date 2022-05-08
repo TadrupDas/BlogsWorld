@@ -35,12 +35,12 @@ hr{ border: 0 solid #c4a07c;}
 .card-width{
     width:400px;}
 }
-@media screen and (min-width: 800px){
+@media screen and (max-width: 800px){
    .card-width{
     width:200px;
     } 
 }
-@media screen and (mix-width: 600px){
+@media screen and (min-width: 600px){
     .card-width{
      width:300px;
      } 
