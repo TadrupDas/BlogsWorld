@@ -46,7 +46,11 @@ hr{ border: 0 solid #c4a07c;}
    .card-height{
     height:200px;} 
 }
-
+@media screen and (max-width: 800px){
+    .card-width{
+     width:200px;
+     } 
+ }
 .card-width-2{
     width:700px;
 }
