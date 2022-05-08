@@ -31,17 +31,18 @@ hr{ border: 0 solid #c4a07c;}
 #more {display: none;} 
 #more1 {display: none;} 
 
+@media screen and (min-width: 950px){
 .card-width{
-    width:400px;
-}
-@media screen and (max-width: 600px){
-   .card-width{
-    width:300px;
-    } 
+    width:400px;}
 }
 @media screen and (min-width: 800px){
+   .card-width{
+    width:200px;
+    } 
+}
+@media screen and (max-width: 600px){
     .card-width{
-     width:200px;
+     width:300px;
      } 
 }
 .card-height{
