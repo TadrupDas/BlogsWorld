@@ -40,7 +40,7 @@ hr{ border: 0 solid #c4a07c;}
     width:300px;}
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 600px){
     .card-width{
      width:300px;
      } 
