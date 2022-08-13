@@ -9,19 +9,19 @@ h1{
 }
 hr{ border: 0 solid #c4a07c;}
 
-#bg{background-image: url("index_bg.png");
+#bg{background-image: url("Img/index_bg.png");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size: cover;
     }
-#bg1{background-image: url("background 1.jpg");
+#bg1{background-image: url("Img/background 1.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size: cover;
  }
-#bg2{background-image: url("bg_2.jpeg");
+#bg2{background-image: url("Img/bg_2.jpeg");
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment:fixed;
